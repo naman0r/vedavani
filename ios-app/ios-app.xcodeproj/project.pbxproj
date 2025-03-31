@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5252FD2F2D9A2AFF007BAB63 /* README.md.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5252FD2E2D9A2AFF007BAB63 /* README.md.txt */; };
+		5252FD312D9A3498007BAB63 /* Debug.config in Resources */ = {isa = PBXBuildFile; fileRef = 5252FD302D9A3498007BAB63 /* Debug.config */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,6 +33,7 @@
 		5252FD112D9A2A30007BAB63 /* ios-appTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ios-appTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5252FD1B2D9A2A30007BAB63 /* ios-appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ios-appUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5252FD2E2D9A2AFF007BAB63 /* README.md.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md.txt; sourceTree = "<group>"; };
+		5252FD302D9A3498007BAB63 /* Debug.config */ = {isa = PBXFileReference; lastKnownFileType = text; path = Debug.config; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -80,6 +82,7 @@
 		5252FCF82D9A2A2F007BAB63 = {
 			isa = PBXGroup;
 			children = (
+				5252FD302D9A3498007BAB63 /* Debug.config */,
 				5252FD032D9A2A2F007BAB63 /* ios-app */,
 				5252FD142D9A2A30007BAB63 /* ios-appTests */,
 				5252FD1E2D9A2A30007BAB63 /* ios-appUITests */,
@@ -219,6 +222,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5252FD2F2D9A2AFF007BAB63 /* README.md.txt in Resources */,
+				5252FD312D9A3498007BAB63 /* Debug.config in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
